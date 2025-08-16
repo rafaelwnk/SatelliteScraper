@@ -1,13 +1,12 @@
 # SatelliteScraper
 
-Um Web Scraper criado para coletar informações de satélites no site [Heavens Above](https://www.heavens-above.com/Satellites.aspx). Os dados coletados são organizados e exportados em CSV, prontos para consulta depois.
+Um Web Scraper criado para coletar informações de satélites no site [Heavens Above](https://www.heavens-above.com/Satellites.aspx). Os dados coletados incluem Nome, Estado Orbital, Designação e Órbita, sendo organizados e exportados em CSV, prontos para consulta depois.
 
 ## Tecnologias Utilizadas
 
 - Python
 - BeautifulSoup4
 - pandas
-
 
 ## Instalação e Execução
 Siga os passos abaixo para configurar e executar o projeto localmente.
